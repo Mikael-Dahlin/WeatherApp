@@ -7,7 +7,11 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
 
-
+/**
+ * 
+ * @author Mikael-Dahlin
+ * Main class that starts the program and generates a GUI.
+ */
 public class Main extends Application {
 	@Override
 	public void start(Stage primaryStage) {
